@@ -1,7 +1,8 @@
 import os
-from flask import Flask, render_template, request, session, redirect, url_for
+from flask import Flask, render_template, request, session, redirect, url_for, jsonify
 from flask_babel import Babel, get_locale, gettext
 from flask_session import Session
+from chat import get_response
 
 app = Flask(__name__)
 babel = Babel(app)
@@ -45,6 +46,17 @@ def labour():
     current_lang = session.get('lang', 'Default')
     return render_template('labour.html', current_lang=current_lang)
 
+
+@app.get("/chat")
+def index():
+    return render_template("base.html")
+
+@app.post("/predict")
+def predict():
+    text = request.get_json().get("message")
+    response = get_response(text)
+    message = {"answer": response}
+    return jsonify(message)
 
 if __name__ == '__main__':
     app.run(debug=True)

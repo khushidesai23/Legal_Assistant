@@ -8,6 +8,11 @@
     
 </head>
 <body>
+    <div class="chatbox__button">
+        <a href="{{ url_for('index') }}"><button><img src="{{ url_for('static', filename='images/chatbox-icon.svg') }}" /></button></a>
+    </div>
+    <a href="{{ url_for('index') }}">Know your Rights-></a>
+    
     <div class="topnav">
         <div class="search-bar-container">
             <input type="text" class="search-bar" placeholder="Search...">
