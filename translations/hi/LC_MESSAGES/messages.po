@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Skip to main Content"
+msgstr "मुख्य विषयवस्तु में जाएं"
+
+msgid "Home"
+msgstr "होम"
+
+msgid "About_us"
+msgstr "हमारे बारे में"
+
+msgid "Contact"
+msgstr "संपर्क करे"
+
+msgid "Login"
+msgstr "लॉगिन"
+
+msgid "Register"
+msgstr "रजिस्टर"
+
+msgid "Know your Rights"
+msgstr "अपने अधिकारों को जानिए"
+
+msgid "Know Your Rights is a fundamental concept that empowers individuals by informing them about their legal entitlements and freedoms. It serves as a guide to understanding and asserting ones legal protections in various contexts, promoting informed decision-making and advocacy."
+msgstr "अपने अधिकारों को जानें एक मौलिक अवधारणा है जो व्यक्तियों को उनके कानूनी अधिकारों और स्वतंत्रता के बारे में सूचित करके सशक्त बनाती है। यह विभिन्न संदर्भों में किसी की कानूनी सुरक्षा को समझने और उन पर जोर देने, सूचित निर्णय लेने और वकालत को बढ़ावा देने के लिए एक मार्गदर्शक के रूप में कार्य करता है।"
+
+msgid "External Links"
+msgstr "बाहरी लिंक"
+
+msgid "Help"
+msgstr "सहायता"
+
+msgid "Disclaimer"
+msgstr "अस्वीकरण"
+
+msgid "Feedback"
+msgstr "प्रतिपुष्टि"
+
+msgid "Labour Laws"
+msgstr "श्रम कानून"
+
+msgid "Consumer Laws"
+msgstr "उपभोक्ता कानून"
+
+msgid "Property Laws"
+msgstr "संपत्ति कानून"
+
+msgid "Tax Laws"
+msgstr "कर कानून"
+
+msgid "Family Laws"
+msgstr "पारिवारिक कानून"
+
+msgid "Documents required for Complaint"
+msgstr "शिकायत के लिए आवश्यक दस्तावेज"
+
+msgid "Levels of Government"
+msgstr "सरकार के स्तर"
+
+msgid "Fundamental Rights"
+msgstr "मौलिक अधिकार"
+
+msgid "Overview"
+msgstr "निरीक्षण"
+
+msgid "Payment of Bonus Act"
+msgstr "बोनस भुगतान अधिनियम"
+
+msgid "Payment of Wages Act"
+msgstr "वेतन भुगतान अधिनियम"
+
+msgid "Payment of Gratuity Act"
+msgstr "ग्रेच्युटी भुगतान अधिनियम"
+
+msgid "Inter-state Migrant Workman Act"
+msgstr "अंतरराज्यीय प्रवासी कर्मकार अधिनियम"
+
+msgid "Beedi and Cigar Workers(Condition of Employment) Act"
+msgstr "बीड़ी और सिगार श्रमिक (रोजगार की स्थिति) अधिनियम"
+
+msgid "Maternity Benefit Act"
+msgstr "मातृत्व लाभ अधिनियम"
+
+msgid "Employees Compensation Act"
+msgstr "कर्मचारी मुआवजा अधिनियम"
+
+msgid "Child Labour (Prohibition and Regulation) Act"
+msgstr "बाल श्रम (निषेध और विनियमन) अधिनियम"
+
+msgid "Definition:"
+msgstr "परिभाषा:"
+
+msgid "Description:"
+msgstr "विवरण:"
+
+msgid "Offences and Penalties:"
+msgstr "अपराध और दंड:"
+
+msgid "The Child Labour (Prohibition & Regulation) Act, 1986 was enacted to prohibit the engagement of children below the age of fourteen years in factories, mines and hazardous employments and to regulate their conditions of work in certain other employments."
+msgstr "बाल श्रम (निषेध और विनियमन) अधिनियम, 1986 को कारखानों, खानों और खतरनाक रोजगारों में चौदह वर्ष से कम आयु के बच्चों को नियोजित करने से रोकने और उनकी शर्तों को नियंत्रित करने के लिए विधायित किया गया था और कुछ अन्य रोजगारों में उनकी काम की शर्तों को व्यवस्थित करने के लिए।"
+
+msgid "The prime objective of this Act is to protect the dignity of motherhood and to provide certain relaxation to women employees at the time of childbirth."
+msgstr "मातृत्व लाभ अधिनियम (1961) का मुख्य उद्देश्य मातृत्व की मर्यादा की सुरक्षा करना और जन्म के समay महिला कर्मचारियों को निश्चित आराम प्रदान करना है।"
+
+msgid "This Act provides for the welfare of the workers employed in beedi and cigar establishments. It regulates the conditions of work of workers engaged in this industry, and also makes provisions regarding other facilities like drinking water, latrines, urinals, washing facilities, creches, first aid and canteen facilities, etc."
+msgstr "यह अधिनियम बीडी और सिगर स्थापनाओं में रोजगार करने वाले कर्मचारियों के कल्याण के लिए प्रदान करता है। यह इस उद्योग में रोजगार करने वाले कर्मचारियों के काम की शर्तों को व्यवस्थित करता है, और शराब, लैट्रीन, मूत्रालय, धोने की सुविधाएं, क्रेच, प्राथमिक चिकित्सा और कैंटीन सुविधाओं आदि जैसी अन्य सुविधाओं के बारे में भी प्रावधान करता है"
+
+msgid "The main objective of the Act is to regulate the payment of wages of certain classes of employed persons, avoid unnecessary delay in the payment of wages, and prevent unauthorised deductions from the wages."
+msgstr "वेतन अधिनियम (1936) का मुख्य उद्देश्य निश्चित वर्गों के रोजगार करने वाले व्यक्तियों के वेतन के भुगतान को व्यवस्थित करना, वेतन के भुगतान में अनावश्यक देरी से बचना और वेतन से अनधिकृत कटौतियों से बचना है।"
+
+msgid "The payment of Bonus Act provides for payment of bonus to persons employed in certain establishments on the basis of profits or on the basis of production or productivity and for matters connected therewith."
+msgstr "बोनस अधिनियम (1965) का मुख्य उद्देश्य लाभ के आधार पर निश्चित संस्थानों में रोजगार करने वाले व्यक्तियों को बोनस का भुगतान करना और उससे संबंधित मामलों के लिए है।"
+
+msgid "Earlier known as the Workmens Compensation Act, this Act was enacted as a kind of social security measure for workmen who suffer employment injury, occupational disease, etc."
+msgstr "कर्मचारी संराहन अधिनियम, 1923 को पहले श्रमिक संराहन अधिनियम के रूप में जाना जाता था, यह अधिनियम उन श्रमिकों के लिए सामाजिक सुरक्षा के रूप में प्रकट किया गया था जो रोजगार हानि, पेशेवर बीमारी आदि का सामना करते हैं।"
+
+msgid "The main object of the Act is to regulate the employment of inter-state migrant workmen, to safeguard their interests, and to provide for their conditions of service and for matters connected therewith."
+msgstr "इंटर-स्टेट प्रवासी श्रमिक अधिनियम, 1979 का मुख्य उद्देश्य है कि यह इंटर-स्टेट प्रवासी श्रमिक के रोजगार को नियंत्रित करे, उनकी हितों की रक्षा करे, और उनकी सेवा की शर्तें प्रदान करे और इससे संबंधित मामलों के लिए प्रावधान करे।"
+
+msgid "The Act provides for a scheme for the payment of gratuity to employees engaged in factories, mines, oilfields, plantations, ports, railway companies, shops or other establishments. The Act enforces the payment of gratuity, a reward for long service, as a statutory retiral benefit."
+msgstr "पेमेंट ऑफ़ ग्रेच्युटी एक्ट कारख़ानों, खानों, तेल खनिज, बागानों, बंदरगाहों, रेलवे कंपनियों, दुकानें या अन्य संस्थानों में नियुक्त कर्मचारियों के लिए ग्रेच्युटी के भुगतान की योजना प्रदान करता है। इस अधिनियम ने ग्रेच्युटी के भुगतान को प्रवृत्ति बनाने के लिए विधायिका रेटायरमेंट लाभ के रूप में प्रवृत्ति बनाने के रूप में कड़ाई से लागू किया है।"
+
+msgid "Every employee receiving salary or wages up to Rs. 10,000 p.m. and engaged in any kind of work whether skilled, unskilled, managerial, supervisory etc. is entitled to bonus for every accounting year if he has worked for at least 30 working days in that year. Where an employee has not worked for all the working days in an accounting year, the minimum bonus of one hundred rupees or, as the case may be, of sixty rupees, if such bonus is higher than 8.33 per cent, of his salary or wage for the days he has worked in that accounting year, shall be proportionately reduced. The minimum bonus which an employer is required to pay even if he suffers losses during the accounting year or there is no allocable surplus is 8.33percent of the salary or wages during the accounting year, or Rs. 100 in case of employees above 15 years and Rs 60 in case of employees below 15 years, at the beginning of the accounting year, whichever is higher. The bonus should be paid in cash within 8 months from the close of the accounting year or within one month from the date of enforcement of the award or coming into operation of a settlement following an industrial dispute regarding payment of bonus."
+msgstr "रुपये तक वेतन या मजदूरी प्राप्त करने वाला प्रत्येक कर्मचारी। रात 10,000 बजे और किसी भी प्रकार के काम में लगा हुआ हो चाहे वह कुशल, अकुशल, प्रबंधकीय, पर्यवेक्षी आदि हो, वह प्रत्येक लेखा वर्ष के लिए बोनस का हकदार है यदि उसने उस वर्ष कम से कम 30 कार्य दिवसों के लिए काम किया है। जहां किसी कर्मचारी ने एक लेखा वर्ष में सभी कार्य दिवसों के लिए काम नहीं किया है, तो न्यूनतम बोनस एक सौ रुपये या, जैसा भी मामला हो, साठ रुपये होगा, यदि ऐसा बोनस उसके वेतन या मजदूरी के 8.33 प्रतिशत से अधिक है। क्योंकि उसने उस लेखा वर्ष में जितने दिन काम किया है, वह आनुपातिक रूप से कम कर दिया जाएगा। न्यूनतम बोनस जो एक नियोक्ता को भुगतान करना आवश्यक है, भले ही उसे लेखांकन वर्ष के दौरान नुकसान उठाना पड़े या कोई आवंटन योग्य अधिशेष न हो, लेखांकन वर्ष के दौरान वेतन या मजदूरी का 8.33प्रतिशत या रु। 15 वर्ष से अधिक के कर्मचारियों के मामले में 100 रुपये और 15 वर्ष से कम के कर्मचारियों के मामले में 60 रुपये, लेखांकन वर्ष की शुरुआत में, जो भी अधिक हो। बोनस का भुगतान लेखांकन वर्ष की समाप्ति से 8 महीने के भीतर या बोनस के भुगतान के संबंध में औद्योगिक विवाद के बाद पुरस्कार के लागू होने या समझौते के संचालन में आने की तारीख से एक महीने के भीतर नकद में किया जाना चाहिए।"
+
+msgid "For violations of the Act or rules requirements, there is a punishment of up to six months in jail or a fine of up to Rs. 1000, or both. Unless the person in question can prove that the offence was committed without his knowledge or that he exercised due diligence, the director, partner, or principal officer responsible for the conduct of the companys business, as the case may be, will be deemed guilty of that offence and punished accordingly in cases involving companies, firms, bodies corporate, or associations of individuals."
+msgstr "अधिनियम या नियमों की आवश्यकताओं के उल्लंघन के लिए छह महीने तक की जेल की सजा या रुपये तक का जुर्माना है। 1000, या दोनों. जब तक संबंधित व्यक्ति यह साबित नहीं कर सकता कि अपराध उसकी जानकारी के बिना किया गया था या उसने उचित परिश्रम किया था, कंपनी के व्यवसाय के संचालन के लिए जिम्मेदार निदेशक, भागीदार या प्रमुख अधिकारी, जैसा भी मामला हो, को दोषी माना जाएगा। कंपनियों, फर्मों, कॉर्पोरेट निकायों, या व्यक्तियों के संघों से जुड़े मामलों में उस अपराध और तदनुसार दंडित किया जाता है।"
+
+msgid "At present, employees drawing wages up to 18,000 per month are covered under the Act. The Act provides that wages of every person employed should be paid, in case of establishments employing up to 1,000 persons, before the expiry of the seventh day of the following month and, in case of establishments employing 1,000 or more workers, before the expiry of the tenth day of the following month. The Act also provides that all wages have to be paid in current coins or currency notes or in both. However, after obtaining authorisation from the employee, the wages may be paid either by cheque or by crediting the wages in the employee’s bank account."
+msgstr "वर्तमान में, प्रति माह 18,000 तक वेतन पाने वाले कर्मचारी अधिनियम के अंतर्गत आते हैं। अधिनियम में प्रावधान है कि 1,000 व्यक्तियों को रोजगार देने वाले प्रतिष्ठानों के मामले में, अगले महीने के सातवें दिन की समाप्ति से पहले नियोजित प्रत्येक व्यक्ति की मजदूरी का भुगतान किया जाना चाहिए और 1,000 या अधिक श्रमिकों को रोजगार देने वाले प्रतिष्ठानों के मामले में, अगले महीने की समाप्ति से पहले। अगले महीने का दसवां दिन. अधिनियम में यह भी प्रावधान है कि सभी मजदूरी का भुगतान चालू सिक्कों या करेंसी नोटों या दोनों में किया जाना चाहिए। हालाँकि, कर्मचारी से प्राधिकरण प्राप्त करने के बाद, वेतन का भुगतान या तो चेक द्वारा या कर्मचारी के बैंक खाते में वेतन जमा करके किया जा सकता है।"
+
+msgid "Whoever being required under this Act to maintain any records or registers or to furnish any information or return- (a) Fails to maintain such register or record; or (b) Willfully refuses or without lawful excuse neglects to furnish such information or return; or (c) Willfully furnishes or causes to be furnished any information or return which he knows to be false; or (d) refuses to answer or willfully gives a false answer to any question necessary for obtaining any information required to be furnished under this Act, shall, for each such offence, be punishable with fine which shall not be less than Rs 1500/- one but which may extend to Rs 7500/-."
+msgstr "जिस किसी को भी इस अधिनियम के तहत कोई रिकॉर्ड या रजिस्टर बनाए रखने या कोई जानकारी या रिटर्न प्रस्तुत करने की आवश्यकता होती है- (ए) ऐसे रजिस्टर या रिकॉर्ड को बनाए रखने में विफल रहता है; या (बी) जानबूझकर ऐसी जानकारी या रिटर्न प्रस्तुत करने से इनकार करता है या कानूनी बहाने के बिना उपेक्षा करता है; या (सी) जानबूझकर कोई जानकारी या रिटर्न देता है या दिलवाता है जिसके बारे में वह जानता है कि वह गलत है; या (डी) इस अधिनियम के तहत प्रस्तुत की जाने वाली किसी भी जानकारी को प्राप्त करने के लिए आवश्यक किसी भी प्रश्न का उत्तर देने से इनकार करता है या जानबूझकर गलत उत्तर देता है, तो ऐसे प्रत्येक अपराध के लिए जुर्माना लगाया जाएगा जो 1500/- रुपये से कम नहीं होगा। एक लेकिन जो 7500/- रुपये तक बढ़ सकता है।"
+
+msgid "Every employee irrespective of his wages is entitled to receive gratuity if he has rendered continuous service of 5 years or more than 5 years. It is not paid to an employee gratuitously or merely as a matter of boon. Gratuity is payable to an employee on termination of his employment after he has rendered continuous service for not less than five years. The Working Journalists and Other Newspaper Employees (Conditions of service) and Miscellaneous Provisions Act, 1955, provides for payment of gratuity. As such, three years of continuous service is required for eligibility for Gratuity. For every completed year of service or part thereof in excess of six months, the employer shall pay gratuity to an employee at the rate of fifteen days wages based on the rate of wages last drawn by the employee concerned."
+msgstr "प्रत्येक कर्मचारी अपने वेतन की परवाह किए बिना ग्रेच्युटी प्राप्त करने का हकदार है यदि उसने 5 वर्ष या 5 वर्ष से अधिक की निरंतर सेवा प्रदान की है। इसका भुगतान किसी कर्मचारी को निःशुल्क या केवल वरदान के रूप में नहीं किया जाता है। किसी कर्मचारी को कम से कम पांच साल तक निरंतर सेवा प्रदान करने के बाद उसके रोजगार की समाप्ति पर ग्रेच्युटी देय होती है। श्रमजीवी पत्रकार और अन्य समाचार पत्र कर्मचारी (सेवा की शर्तें) और विविध प्रावधान अधिनियम, 1955, ग्रेच्युटी के भुगतान का प्रावधान करता है। वैसे तो ग्रेच्युटी की पात्रता के लिए तीन साल की निरंतर सेवा आवश्यक है। सेवा के प्रत्येक पूर्ण वर्ष या उसके छह महीने से अधिक के हिस्से के लिए, नियोक्ता किसी कर्मचारी को संबंधित कर्मचारी द्वारा अंतिम बार ली गई मजदूरी की दर के आधार पर पंद्रह दिनों की मजदूरी की दर से ग्रेच्युटी का भुगतान करेगा।"
+
+msgid "The appropriate Government may, subject to such conditions as may be prescribed, exempt every employer who had already established an approved gratuity fund in respect of his employees and who desires to continue such arrangement and every employer employing five hundred or more persons who establishes an approved gratuity fund in the manner prescribed. Where an employer fails to make any payment by way of premium to the insurance or by way of contribution to all approved gratuity funds, he shall be liable to pay the amount of gratuity due under this Act forthwith to the controlling authority. If someone breaks the rule mentioned, they can be fined up to Rs 10,000. If they keep breaking the rule, they can be fined up to Rs 1,000 for each day they continue to do so."
+msgstr "उपयुक्त सरकार, ऐसी शर्तों के अधीन, जो निर्धारित की जा सकती हैं, प्रत्येक नियोक्ता को छूट दे सकती है जिसने पहले से ही अपने कर्मचारियों के संबंध में एक अनुमोदित ग्रेच्युटी फंड स्थापित किया है और जो ऐसी व्यवस्था जारी रखना चाहता है और प्रत्येक नियोक्ता जो पांच सौ या अधिक व्यक्तियों को रोजगार देता है जो एक अनुमोदित ग्रेच्युटी फंड स्थापित करता है निर्धारित तरीके से ग्रेच्युटी फंड। जहां कोई नियोक्ता बीमा के प्रीमियम के रूप में या सभी स्वीकृत ग्रेच्युटी फंडों में योगदान के माध्यम से कोई भुगतान करने में विफल रहता है, तो वह इस अधिनियम के तहत देय ग्रेच्युटी की राशि को तुरंत नियंत्रण प्राधिकारी को भुगतान करने के लिए उत्तरदायी होगा। अगर कोई बताए गए नियम को तोड़ता है तो उस पर 10,000 रुपये तक का जुर्माना लगाया जा सकता है. यदि वे नियम तोड़ते रहते हैं, तो उन पर ऐसा करना जारी रखने वाले प्रत्येक दिन के लिए 1,000 रुपये तक का जुर्माना लगाया जा सकता है।"
+
+msgid "The provisions of the Act are applicable to every establishment in which one or more inter-state workmen are employed or were employed on any day of the preceding 12 months and to every contractor who employs or employed one or more inter-state migrant workmen on any day of the preceding 12 months. The Act also provides for registration of the establishments employing inter-state migrant workmen and licences for the contractors. As per the Act, the displacement allowance has to be paid by the contractor to every inter-state migrant workmen at the time of recruitment equal to 50percent of the monthly wages payable to him. A journey allowance of a sum of not less than the fare from the place of residence of the inter-state migrant workmen in his state to the place of work in the other state has to be paid by the contractor to the workman both for the outward and return journeys and such a workman is entitled to payment of wages during the period of such journeys as if he was on duty."
+msgstr "अधिनियम के प्रावधान प्रत्येक प्रतिष्ठान पर लागू होते हैं जिसमें एक या एक से अधिक अंतर-राज्यीय कामगार कार्यरत हैं या पिछले 12 महीनों के किसी भी दिन कार्यरत थे और प्रत्येक ठेकेदार पर जो एक या एक से अधिक अंतर-राज्यीय प्रवासी कामगारों को नियोजित करता है या नियोजित करता है। पिछले 12 महीनों का दिन. अधिनियम अंतर-राज्यीय प्रवासी कामगारों को रोजगार देने वाले प्रतिष्ठानों के पंजीकरण और ठेकेदारों के लिए लाइसेंस का भी प्रावधान करता है। अधिनियम के अनुसार, ठेकेदार द्वारा प्रत्येक अंतरराज्यीय प्रवासी कामगार को भर्ती के समय उसे देय मासिक वेतन के 50प्रतिशत के बराबर विस्थापन भत्ता का भुगतान करना होगा। ठेकेदार द्वारा अपने राज्य में अंतर्राज्यीय प्रवासी कामगारों के निवास स्थान से दूसरे राज्य में काम के स्थान तक के किराये से कम राशि का यात्रा भत्ता कामगार को भुगतान करना होगा। और वापसी यात्राएं और ऐसा कामगार ऐसी यात्राओं की अवधि के दौरान मजदूरी के भुगतान का हकदार है जैसे कि वह ड्यूटी पर था।"
+
+msgid "The penalty for offences committed under the Act by the defaulters is imprisonment up to one year or a fine of up to 1,000 or both. In case the offence continues, there is a provision for additional fine up to 100 for each day."
+msgstr "बकाएदारों द्वारा अधिनियम के तहत किए गए अपराधों के लिए जुर्माना एक वर्ष तक कारावास या 1,000 तक का जुर्माना या दोनों है। यदि अपराध जारी रहता है तो प्रत्येक दिन के लिए 100 रुपये तक अतिरिक्त जुर्माने का प्रावधान है।"
+
+msgid "The Act also seeks to safeguard the interests of home-based beedi workers to the extent possible. Any person who intends to use or allows to be used any place or premises as industrial premises for manufacturing of beedi or cigar or any other connected activity is obliged to make an application in writing to the competent authority, in such form and on payment of such fees as may be prescribed. The application has to specify the maximum number of employees proposed to be employed at any time of the day in the place or premises. A licence granted under this section remains valid till the end of the financial year in which it was granted. An application for the renewal of a licence granted under this Act has to be made at least 30 days before the expiry of the period of licence."
+msgstr "यह अधिनियम यथासंभव हद तक घर-आधारित बीड़ी श्रमिकों के हितों की रक्षा करने का भी प्रयास करता है। कोई भी व्यक्ति जो किसी स्थान या परिसर को बीड़ी या सिगार के निर्माण या किसी अन्य संबंधित गतिविधि के लिए औद्योगिक परिसर के रूप में उपयोग करने का इरादा रखता है या उपयोग करने की अनुमति देता है, वह सक्षम प्राधिकारी को ऐसे फॉर्म में और भुगतान पर लिखित रूप में आवेदन करने के लिए बाध्य है। शुल्क जो निर्धारित किया जा सकता है। आवेदन में उस स्थान या परिसर में दिन के किसी भी समय नियोजित किए जाने वाले प्रस्तावित कर्मचारियों की अधिकतम संख्या निर्दिष्ट करनी होगी। इस धारा के तहत दिया गया लाइसेंस उस वित्तीय वर्ष के अंत तक वैध रहता है जिसमें इसे दिया गया था। इस अधिनियम के तहत दिए गए लाइसेंस के नवीनीकरण के लिए आवेदन लाइसेंस की अवधि समाप्त होने से कम से कम 30 दिन पहले करना होगा।"
+
+msgid "If someone hinders or refuses to show certain records or documents to an inspector as required by the Act, they can be punished. The punishment could be imprisonment for up to six months, a fine of up to Rs 5,000, or both."
+msgstr "यदि कोई अधिनियम के अनुसार इंस्पेक्टर को कुछ रिकॉर्ड या दस्तावेज़ दिखाने में बाधा डालता है या मना करता है, तो उन्हें दंडित किया जा सकता है। सज़ा छह महीने तक की कैद, 5,000 रुपये तक का जुर्माना या दोनों हो सकती है।"
+
+msgid "The Act is applicable to all women employees, whether employed directly or through a contractor, in mines, factories, plantations and in other establishments if the state government so decides. The Act is also applicable to every shop or establishment in which 10 or more persons are employed. As per the Act, any pregnant working woman is entitled to maternity leave. She is entitled to avail six weeks of leave before the due date of expected delivery and six weeks after the child’s birth. Even in the case of miscarriage or abortion, a woman covered under the Act can avail six weeks’ leave.Some of the main provisions of the Act are as follows: 
+                • No employer can knowingly employ a woman in any establishment during the six weeks immediately following the day of her delivery or her miscarriage. 
+                • Every woman covered under the Act is entitled to, and her employer is liable for, the payment of maternity leave at the rate of the average daily wage for the period of her actual absence immediately preceding and including the day of her delivery and for the six weeks immediately following that day. 
+                • No woman is entitled to maternity leave unless she has actually worked in an establishment of the employer from whom she claims maternity leave for a period of not less than 80 days in the 12 months immediately preceding the date of her expected delivery. 
+                • The maximum period for which any woman is entitled to maternity leave is 12 weeks, i.e. six weeks up to and including the day of her delivery and six weeks immediately following that day. 
+                • No deduction from the normal and usual daily wages of a woman entitled to maternity leave shall be made by reason only of: (i) the nature of work assigned to her by virtue of the provisions of the Act; or (ii) breaks for nursing the child allowed to her under the provisions of the Act."
+msgstr "यदि राज्य सरकार निर्णय लेती है तो यह अधिनियम सभी महिला कर्मचारियों पर लागू होता है, चाहे वे खदानों, कारखानों, बागानों और अन्य प्रतिष्ठानों में सीधे या ठेकेदार के माध्यम से कार्यरत हों। यह अधिनियम प्रत्येक दुकान या प्रतिष्ठान पर भी लागू होता है जिसमें 10 या अधिक व्यक्ति कार्यरत हैं। अधिनियम के अनुसार, कोई भी गर्भवती कामकाजी महिला मातृत्व अवकाश की हकदार है। वह अपेक्षित प्रसव की नियत तारीख से पहले छह सप्ताह और बच्चे के जन्म के छह सप्ताह बाद छुट्टी का लाभ उठाने की हकदार है। गर्भपात या गर्भपात की स्थिति में भी, अधिनियम के अंतर्गत आने वाली महिला छह सप्ताह की छुट्टी का लाभ उठा सकती है। अधिनियम के कुछ मुख्य प्रावधान इस प्रकार हैं:
+                 • कोई भी नियोक्ता जानबूझकर किसी महिला को उसके प्रसव या गर्भपात के दिन के तुरंत बाद छह सप्ताह के दौरान किसी भी प्रतिष्ठान में नियोजित नहीं कर सकता है।
+                 • अधिनियम के अंतर्गत आने वाली प्रत्येक महिला अपनी वास्तविक अनुपस्थिति की अवधि के लिए औसत दैनिक वेतन की दर से मातृत्व अवकाश के भुगतान की हकदार है, और इसके लिए उसका नियोक्ता उत्तरदायी है, जिसमें उसके प्रसव का दिन भी शामिल है। उस दिन के तुरंत बाद छह सप्ताह।
+                 • कोई भी महिला तब तक मातृत्व अवकाश की हकदार नहीं है, जब तक कि उसने वास्तव में उस नियोक्ता के प्रतिष्ठान में काम नहीं किया हो, जहां से वह अपनी अपेक्षित डिलीवरी की तारीख से ठीक पहले 12 महीनों में कम से कम 80 दिनों की अवधि के लिए मातृत्व अवकाश का दावा करती है।
+                 • अधिकतम अवधि जिसके लिए कोई भी महिला मातृत्व अवकाश की हकदार है, वह 12 सप्ताह है, यानी उसके प्रसव के दिन तक छह सप्ताह और उस दिन के तुरंत बाद के छह सप्ताह।
+                 • मातृत्व अवकाश की हकदार महिला की सामान्य और सामान्य दैनिक मजदूरी से कोई कटौती केवल निम्नलिखित कारणों से नहीं की जाएगी: (i) अधिनियम के प्रावधानों के आधार पर उसे सौंपे गए कार्य की प्रकृति; या (ii) अधिनियम के प्रावधानों के तहत उसे बच्चे की देखभाल के लिए अवकाश की अनुमति है।"
+
+msgid "For breach of the provisions of the Act, the employer is punishable with imprisonment up to one year and/or a penalty of 5,000."
+msgstr "अधिनियम की प्रावधानियों का उल्लंघन के लिए, नियोक्ता को एक साल तक की कैद और/या 5,000 रुपये का दंड हो सकता है।"
+
+msgid "The Act is applicable to employers employing categories of employees listed in Schedule II of the Act. It is applicable to all such employees irrespective of their status or salaries and engaged either directly or through a contractor or a person recruited to work abroad. Any employee who is injured by an accident arising out of and in the course of his employment, or contracts any occupational disease peculiar to his occupation, is eligible for various services under the Act. In case of death resulting from injury, 50percent of monthly wages multiplied by (X) relevant factor or 1,20,000 Rs, whichever is more; in case of permanent total disablement resulting from the injury, 60percent of monthly wages multiplied by relevant factor or 1,40,000 Rs, whichever is more; where permanent, partial disablement or temporary disablement results from injury, as per prescribed schedule, and in case of death, funeral expenses of 5,000Rs. The relevant factor is based on the age of the employee."
+msgstr "यह अधिनियम उन वर्गों के नियोक्ताओं के लिए लागू है जो इस अधिनियम की अनुसूची II में सूचीबद्ध हैं। यह सभी ऐसे कर्मचारियों के लिए लागू है, चाहे उनकी स्थिति या वेतन हो, और वे सीधे या एक ठेकेदार या विदेश में काम करने के लिए भर्ती हों। इस अधिनियम के तहत, जिस कोई कर्मचारी किसी दुर्घटना के कारण जो उसके काम के दौरान होती है, से घायल होता है, या अपने पेशेवर क्षेत्र के विशिष्ट व्यापारिक बीमारी का संबंध होता है, उसे इस अधिनियम के तहत विभिन्न सेवाएं प्राप्त होती हैं। मृत्यु के मामले में चोट के परिणामस्वरूप होने पर, मासिक वेतन का 50प्रतिशत योग्यकरण करें जो (X) संबंधित कारक से गुणित होता है या ₹1,20,000, जो भी अधिक है; चोट से निरंतर कुल अक्षमता के परिणामस्वरूप होने पर, मासिक वेतन का 60प्रतिशत योग्यकरण करें जो संबंधित कारक से गुणित होता है या ₹1,40,000, जो भी अधिक है; जहाँ स्थायी, आंशिक अक्षमता या अस्थायी अक्षमता चोट से परिणित होती है, निर्धारित समय-सारणी के अनुसार, और मृत्यु के मामले में, ₹5,000 के अंत्यशस्त्र श्रद्धांजलि व्यय। संबंधित कारक का आधार करराहा है कर्मचारी की आयु पर।"
+
+msgid "There is a provision for penalty under the Act for failure on the part of the employer to (a) to maintain a Notice-book which he is required to maintain under Sub-section (3) of Section 10, (b) failure to send to the Commissioner a statement which he is required to send under Sub-section (1) of Section 10A, (c) failure to send a report which he is required to send under Section 10B, and (d) failure to make a return which he is required to make under Section 16 of the Act. The above failures on the part of the employer are punishable with a penalty of 5,000Rs."
+msgstr "इस अधिनियम के तहत दंड की प्रावधानिकता भी है जो कार्यकर्ता की ओर से किसी भी अपराध के लिए की जाती है, जैसे (a) उस नोटिस-बुक को बनाए रखने का नियमित अनुसरण न करना जो उसे धारा 10 के उप-खंड 3 के तहत बनाए रखने के लिए आवश्यक है, (b) उसके द्वारा धारा 10A के उप-खंड 1 के तहत भेजने के लिए आवश्यक स्टेटमेंट को नहीं भेजना, (c) धारा 10B के तहत भेजने के लिए आवश्यक रिपोर्ट को नहीं भेजना, और (d) धारा 16 के तहत जारी करने के लिए आवश्यक रिटर्न नहीं बनाना। निम्नलिखित प्रकार के अपराधियों पर कार्यकर्ता की ओर से की गई उपयुक्तता के लिए दंड ₹5,000 रुपये के साथ किया जाएगा।"
+
+msgid "In a nutshell, the Acts provisions provide that no child shall be obliged or allowed to work in any establishment for more hours than may be allowed for that establishment or type of establishments. Each days work period must be adjusted such that it never exceeds three hours. It also states that no youngster should work for longer than three hours without a break for rest. No youngster shall be required to work overtime or be permitted to do so."
+msgstr "संक्षेप में कहें तो, इस अधिनियम की प्रावधानिक व्यवस्थाएँ यह स्पष्ट करती हैं कि कोई भी बच्चा किसी ऐसे संस्थान में काम नहीं करेगा जिसके लिए उस संस्थान या संस्थान के प्रकार के लिए अनुमति दी गई हो। प्रति दिन के काम की अवधि को इस प्रकार समायोजित किया जाना चाहिए कि यह कभी भी तीन घंटे से अधिक न हो। इसमें यह भी उल्लिखित है कि किसी युवक को बिना विश्राम के तीन घंटे से अधिक काम नहीं करना चाहिए। कोई युवक को अधिराज्य काम करने की आवश्यकता नहीं है और न ही इसे यह अनुमति दी जानी चाहिए।"
+
+msgid "Section 3 of the Act states the prohibited occupations and processes, whoever employs any child or permits any child to work in contravention of the provisions of Sec. 3 shall be punishable with imprisonment for a term which shall not be less than, three months but which may extend to one year or with fine which shall not be less than ten thousand rupees but which may extend to twenty thousand rupees or with both. Repeat offence under section 3 is punishable with imprisonment for a term which shall not be less than six months but which may extend to two years."
+msgstr "धारा 3 में प्रतिबंधित व्यापार और प्रक्रियाएँ बताई गई हैं, जो कोई भी बच्चा नियोजित करता है या किसी बच्चे को किसी भी बंधन के खिलाफ काम करने की अनुमति देता है, उसे दंडित किया जाएगा। दंड होगा कैद की सजा, जिसमें तीन महीने से कम नहीं होगी, लेकिन जो एक साल तक बढ़ सकती है या जिसमें दस हजार रुपये से कम नहीं होगी, लेकिन जो बीस हजार रुपये तक बढ़ सकती है, या फिर दोनों के साथ हो सकती है। धारा 3 के तहत पुनरावृत्ति का दोहन करना दंडनीय है, जिसमें जेल की सजा होगी, जिसमें छह महीने से कम नहीं होगी, लेकिन जो दो साल तक बढ़ सकती है।"

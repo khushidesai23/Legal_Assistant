@@ -3,25 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website</title>
+    <title>{{ gettext('Your Website')}}</title>
     <link rel="stylesheet" href="{{url_for('static',filename='css/styles1.css')}}"/>
     
 </head>
 <body>
-    <div class="chatbot">
-        <div class="chatbot-header">
-            Digital Assistant
-            <button class="close-chatbot" onclick="toggleChatbot()">X</button>
-        </div>
-        <div class="chatbot-messages">
-            <div class="bot-message">Hello! How can I assist you today?</div>
-        </div>
-        <div class="chatbot-input">
-            <input type="text" id="user-message" placeholder="Type your message...">
-            <button onclick="sendMessage()">Send</button>
-        </div>
-    </div>
-    
     <div class="topnav">
         <div class="search-bar-container">
             <input type="text" class="search-bar" placeholder="Search...">
@@ -29,63 +15,39 @@
         </div>
   
         <div class="top-content">
-        <a href="#">Skip to main Content</a>
-        &nbsp;
-       
-        <a href="#">Hindi</a>
-        &nbsp;
-        <a href="#">English</a>
-    </div>
-
-            <!-- <div class="dropdown">
-                <button class="dropbtn">Languages</button>
-                <div class="dropdown-content">
-                  <a href="#">Hindi-haihn</a>
-                  <a href="#">Gujarati</a>
-                 
-                </div>
-             </div> -->
-             
+            <a href="#">{{ gettext('Skip to main Content')}}</a>
+        
+            <a href="{{ url_for('set_language', lang='hi') }}">Hindi</a>
+        
+            <a href="{{ url_for('set_language', lang='en') }}">English</a>
+        </div>
     </div>
     <div class="top-navbar">
-    <div class="logo">
-        <table>
-            <tr>
-                <td>
-                    <img src="{{ url_for('static', filename='images/satya.png') }}" alt="Image Description">
-                </td>
-            </div>
-                <td>
-                    <div class="logo2">
-                        <img src="{{ url_for('static', filename='images/text.png') }}" alt="Image Description">
-                </div>
-                </td>
-            </tr>
-        </table>
-       
-       
-       
-  
-
-    <!-- <img src="image7.jpeg" alt="Logo"> -->
-</div>
-        
-        <div class="navbar">
-           
-          
-             &nbsp &nbsp
-             <a href="{{ url_for('home') }}">Home</a>
-             <!-- <a href="#">Home</a> -->
-             <a href="#">About_us</a>
-             <a href="#">Contact</a>
-                <a href="#">Login</a>
-                <a href="#">Register</a>
-               
-               
-            
-            <span class="user-icon">&#x1F464;</span>
+        <div class="logo">
+            <table>
+                <tr>
+                    <td>
+                        <img src="{{ url_for('static', filename='images/satya.png') }}" alt="Image Description">
+                    </td>
         </div>
-        <div class="container">
+                    <td>
+                        <div class="logo2">
+                            <img src="{{ url_for('static', filename='images/text.png') }}" alt="Image Description">
+                        </div>
+                    </td>
+                </tr>
+            </table>
+    </div>
+        
+    <div class="navbar">
+        <a href="{{ url_for('home') }}">{{ gettext('Home')}}</a>
+        <a href="#">{{ gettext('About_us')}}</a>
+        <a href="#">{{ gettext('Contact')}}</a>
+        <a href="#">{{ gettext('Login')}}</a>
+        <a href="#">{{ gettext('Register')}}</a>
+        <span class="user-icon">&#x1F464;</span>
+    </div>
+    <div class="container">
         <div class="gallery-container">
             <div class="gallery">
                 <img src="{{ url_for('static', filename='images/image.png') }}" alt="Image Description">
@@ -98,52 +60,45 @@
         <br>
         <br>
         <br>
-        
     </div>
     <div class="box" onclick="window.location.href='ask_query.html'">
         <div class="box-header">Know your Rights</div>
         <div class="box-content">
             <table>
                 <tr>
-                <td>
-            <p>"Know Your Rights" is a fundamental concept that empowers individuals by informing them about their legal entitlements and freedoms. It serves as a guide to understanding and asserting one's legal protections in various contexts, promoting informed decision-making and advocacy..</p>
-            <!-- <p>2. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> -->
-        </td>
-          
+                    <td>
+                        <p>{{ gettext('Know Your Rights is a fundamental concept that empowers individuals by informing them about their legal entitlements and freedoms. It serves as a guide to understanding and asserting ones legal protections in various contexts, promoting informed decision-making and advocacy.')}}</p>
+                    </td>
         </div>
         <div class="box-button">
             <td>
-                <a href="{{ url_for('ask_query') }}">Know your Rights-></a>
-
-                <!-- <a href="https://example.com" target="_blank" class="know-more-button">Know More-></a> -->
+                <a href="{{ url_for('ask_query') }}">{{ gettext('Know your Rights')}}</a>
             </td>
-          
         </div>
-    </tr>
+        </tr>
     </table>
     </div>
-    
-</div>
+    </div>
    
-   
-    <footer>
-        <div class="footer-content">
-            <div class="footer-nav">
-                <ul>
-                    <li><u><a href="#">FAQs</a></u></li>
-                    <li>|</li>
-                    <li><u><a href="#">External Links</a></u></li>
-                    <li>|</li>
-                    <li><u><a href="#">Help</a></u></li>
-                    <li>|</li>
-                    <li><u><a href="#">Contact</a></u></li>
-                    <li>|</li>
-                    <li><u><a href="#">Disclaimer</a></u></li>
-                    <li>|</li>
-                    <li><u><a href="#">Feedback</a></u></li>
-                </ul>
-            </div>
+<footer>
+    <div class="footer-content">
+        <div class="footer-nav">
+            <ul>
+                <li><u><a href="#">FAQs</a></u></li>
+                <li>|</li>
+                <li><u><a href="#">{{ gettext('External Links')}}</a></u></li>
+                <li>|</li>
+                <li><u><a href="#">{{ gettext('Help')}}</a></u></li>
+                <li>|</li>
+                <li><u><a href="#">{{ gettext('Contact')}}</a></u></li>
+                <li>|</li>
+                <li><u><a href="#">{{ gettext('Disclaimer')}}</a></u></li>
+                <li>|</li>
+                <li><u><a href="#">{{ gettext('Feedback')}}</a></u></li>
+            </ul>
         </div>
-    </footer>
+    </div>
+</footer>
 </body>
-</html>
+</html>  
+   

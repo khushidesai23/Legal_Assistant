@@ -11,32 +11,26 @@ app.secret_key = os.environ.get('FLASK_SECRET_KEY')
 
 
 app.config['BABEL_DEBUG'] = True
-# Initialize Flask-Session with the 'app' instance, not named 'Session'
 Session(app)
 
-# Configure supported languages
 app.config['LANGUAGES'] = {
     'en': 'English',
     'hi': 'Hindi',
 }
 
-# Language selector route
 @app.route('/setlang/<lang>')
 def set_language(lang):
     session['lang'] = lang
-    print(f"Session lang set to: {session['lang']}")  # Add this line for debugging
+    print(f"Session lang set to: {session['lang']}")
     return redirect(request.referrer)
 
-# Define a custom locale selector function
 def custom_locale_selector():
     if 'lang' in session:
         return session['lang']
     return request.accept_languages.best_match(app.config['LANGUAGES'].keys())
 
-# Initialize Flask-Babel using babel.init_app
 babel.init_app(app, locale_selector=custom_locale_selector)
 
-# Index route
 
 @app.route('/')
 def home():
