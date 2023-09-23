@@ -1,0 +1,400 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: top;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+
+
+
+.container {
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    width: 200vh;
+    
+}
+
+.box {
+    width: 560px;
+    background-color: rgba(238, 243, 237, 0.427);
+    border: 1.5px solid #333;
+    margin: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-left: 440px;
+    
+    /* padding-top: ; */
+    margin-bottom: 20px;
+}
+.box:hover {
+    transform: scale(1.05);
+}
+.box-header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+.user-icon {
+    font-size: 20px;
+    margin-right: 10px;
+}
+.search-bar {
+    border: none;
+    padding:6px;
+    border-radius: 25px;
+    width: 170px;
+    margin-left: 60px;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+.search-bar:focus {
+    outline: none;
+}
+.search-icon {
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+.box-content {
+    padding: 20px;
+    text-align: center;
+    color: #353333;
+    
+}
+
+.chatbot {
+    position: fixed;
+    bottom: 70px;
+  
+    right: 20px;
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.chatbot-header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chatbot-header button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.chatbot-messages {
+    padding: 80px;
+    max-height: 200px;
+    overflow-y: auto;
+   
+}
+
+.bot-message {
+    background-color: #f2f2f2;
+    /* padding: 20px; */
+   
+    border-radius: 5px;
+    width: 150px;
+}
+
+.chatbot-input {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.chatbot-input input[type="text"] {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.chatbot-input button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+/* Add styles for the footer */
+footer {
+    background-color: #353333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    height:100px;
+}
+
+.footer-nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.footer-nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-nav ul li:last-child {
+    margin-right: 0; /* Remove margin for the last list item */
+}
+.gallery-container {
+    width: 100%;
+    /* height: 370px; */
+    overflow: hidden;
+    position: relative; /* Add this line to make the container relative */
+    z-index: 1; /* Add this line to set the z-index to 1, making it appear above other elements */
+    /* margin:\\; */
+}
+
+.gallery {
+    display: flex;
+    animation: changeGalleryItem 9s linear infinite; /* Adjust the duration as needed */
+}
+
+.gallery img {
+    width: 80%; /* 100% width for each image */
+    /* height: auto; */
+    height: 450px;
+  padding-top: 0px;
+  padding-bottom: 0%;
+
+  
+}
+
+/* Keyframes animation for changing gallery items */
+@keyframes changeGalleryItem {
+    0%, 100% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(0);
+    }
+    50% {
+        transform: translateX(-100%);
+    }
+    75% {
+        transform: translateX(-100%);
+    }
+}
+.know-more-button {
+    display: inline-block;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 100px;
+
+}
+/* Style for the navigation bar */
+.navbar {
+    background-color: #353333; /* Background color for the navbar */
+    color: #fff; /* Text color */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+     padding: 10px; 
+    justify-content: end;
+   
+}
+
+/* Style for the navigation links */
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 90px;
+   
+    /* margin: 0 2px;Add spacing between links */
+} 
+
+
+/* Style for the new top navigation bar */
+.top-navbar {
+    background-color: rgb(255, 255, 255); /* Background color for the top navbar */
+    color: #ffffff; /* Text color */
+    padding: 6px 0; 
+    text-align: center;
+    height: 120px;
+}
+
+
+.logo img {
+    max-width: 200px; 
+    height: 130px;
+    display: block;
+    margin-right: 6px;
+    padding-top: 6px;
+}
+.logo img{
+    padding-left: 10px;
+}
+
+
+/* .top-navbar a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 20px; /* Add spacing between links */
+ /* */ 
+/* Style for the top navigation bar */
+.topnav {
+    background-color: #d3ccbd; /* Background color for the topnav */
+    color: #fff; /* Text color */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+/* .topnav a{
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+ margin-left: 600px;
+    font-size:larger;
+   font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    color:black;
+
+} */
+ .topnav a:hover {
+    background-color: black;
+    color: white;
+    transform: scale(1.1);
+  } 
+ 
+.dropdown-link {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-link a {
+    color: #333;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+    cursor: pointer;
+  }
+  
+.dropbtn {
+    background-color: inherit;
+    color: black;
+    border: none;
+    cursor: pointer; 
+ 
+    padding-right:3px;
+ 
+    text-decoration: none;
+  }
+  .dropbtn:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.1);
+
+  }
+
+  /* Dropdown container */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: rgb(64, 182, 226);
+    color: black;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .top-content a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    margin-right: 10px; /* Add spacing to separate links */
+}
+
+/* Style to remove margin-right for the last link (English) */
+.top-content a:last-child {
+    margin-right: 0;
+}
+@media (max-width: 768px) {
+    body {
+        font-size: 14px; /* Decrease the base font size for smaller screens */
+    }
+
+    .container {
+        width: 100%; /* Adjust container width for smaller screens */
+        margin-left: 0; /* Remove left margin on smaller screens */
+    }
+
+    .box {
+        width: 100%; /* Adjust box width for smaller screens */
+        margin-left: 0; /* Remove left margin on smaller screens */
+    }
+}
+
+/* Apply different styles for screens smaller than 576px wide */
+@media (max-width: 576px) {
+    .navbar {
+        flex-direction: column; /* Stack navigation links vertically */
+        align-items: center; /* Center-align navigation links */
+    }
+
+    .navbar a {
+        margin: 5px 0; /* Add vertical spacing between navigation links */
+        margin-left: 0; /* Reset left margin for navigation links */
+    }
+}
