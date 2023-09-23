@@ -8,19 +8,10 @@
     
 </head>
 <body>
-    <div class="chatbot">
-        <div class="chatbot-header">
-            Digital Assistant
-            <button class="close-chatbot" onclick="toggleChatbot()">X</button>
-        </div>
-        <div class="chatbot-messages">
-            <div class="bot-message">Hello! How can I assist you today?</div>
-        </div>
-        <div class="chatbot-input">
-            <input type="text" id="user-message" placeholder="Type your message...">
-            <button onclick="sendMessage()">Send</button>
-        </div>
+    <div class="chatbox__button">
+        <a href="{{ url_for('index') }}"><button><img src="{{ url_for('static', filename='images/chatbox-icon.svg') }}" /></button></a>
     </div>
+    <a href="{{ url_for('index') }}">Know your Rights-></a>
     
     <div class="topnav">
         <div class="search-bar-container">

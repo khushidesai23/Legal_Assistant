@@ -1,0 +1,430 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "greeting hindi",
+      "patterns": [
+        "नमस्ते",
+        "अरे",
+        "कैसे हो",
+        "क्या कोई है?",
+        "नमस्ते"
+      ],
+      "responses": [
+        "नमस्ते...",
+        "नमस्ते!!",
+        "नमस्ते, आपकी सेवा में कैसे मदद कर सकता हूँ?",
+        "नमस्ते, मैं आपकी कैसे सहायता कर सकता हूँ?"
+      ]
+    },
+
+
+
+
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+
+    {
+      "tag": "goodbye hindi",
+      "patterns": ["अलविदा", "फिर मिलेंगे", "बाई"],
+      "responses": [
+        "फिर मिलेंगे, आने के लिए धन्यवाद",
+        "आपका दिन शुभ हो",
+        "बाई! जल्दी वापस आना।"
+      ]
+    },
+
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+
+    {
+      "tag": "thanks hindi",
+      "patterns": ["धन्यवाद", "आपका आभारी हूँ", "यह मददगार है", "बहुत धन्यवाद!"],
+      "responses": ["मदद करने में खुशी हुई!", "हमेशा यहाँ हूँ!", "मेरी खुशी है"]
+    },    
+
+    {
+      "tag": "Fundamental Rights",
+      "patterns": [
+        "What are my rights?",
+        "What kinds of rights I have as citizen?",
+        "Rights of citizen",
+        "Rights",
+        "Citizen rights"
+      ],
+      "responses": [
+        "The Constitution offers all citizens, individually and collectively, some basic freedoms. These are guaranteed in the Constitution in the form of six broad categories of Fundamental Rights, which are justifiable. Article 12 to 35 contained in Part III of the Constitution deal with Fundamental Rights. These are: <br>Right to equality, including equality before law, prohibition of discrimination on grounds of religion, race, caste, sex or place of birth, and equality of opportunity in matters of employment.<br>Right to freedom of speech and expression, assembly, association or union, movement, residence, and right to practice any profession or occupation (some of these rights are subject to security of the State, friendly relations with foreign countries, public order, decency or morality).<br>Right against exploitation, prohibiting all forms of forced labour, child labour and traffic in human beings.<br>Right to freedom of conscience and free profession, practice, and propagation of religion.<br>Right of any section of citizens to conserve their culture, language or script, and right of minorities to establish and administer educational institutions of their choice; and<br>Right to constitutional remedies for enforcement of Fundamental Rights."
+      ]
+    },
+
+    {
+      "tag": "Fundamental Rights hindi",
+      "patterns": [
+        "मेरे क्या अधिकार हैं?",
+        "नागरिक के रूप में मेरे पास कौन-कौन से अधिकार हैं?",
+        "नागरिक के अधिकार",
+        "अधिकार",
+        "नागरिकता के अधिकार",
+        "Rights of citizen in hindi",
+        "What are my rights? in hindi",
+        "fundamental rights in hindi",
+        "rights in hindi"
+
+      ],
+      "responses": [
+        "संविधान सभी नागरिकों को कुछ मौलिक स्वतंत्रताएं प्रदान करता है, व्यक्तिगत और सामूहिक रूप से। ये स्वतंत्रताएँ संविधान में छह विभिन्न श्रेणियों में व्यक्त हैं और ये संविधान में निर्धारित की गई हैं। संविधान के भाग III में इन्हें 'मौलिक अधिकार' के रूप में शामिल किया गया है। इनमें से कुछ मुख्य अधिकार हैं:<br>1. समानता का अधिकार, जिसमें कानून के समक्ष समानता, धर्म, जाति, लिंग, जन्म स्थान के आधार पर भेदभाव की प्रतिष्ठा को निषिद्ध किया गया है, और रोजगार में अवसरों में समानता।<br>2. व्यक्तिगत स्वतंत्रता और व्यक्तिगत भाषण और अभिव्यक्ति, सभा, एकत्रित होने, संघ या संघ, गति, निवास का, और किसी भी पेशेवर या व्यवसाय का अभ्यास करने का हक है (इनमें से कुछ अधिकार राष्ट्रीय सुरक्षा, विदेशी संबंधों, सार्वजनिक क्रम, शालीनता या नैतिकता के लिए सुरक्षित हैं)।<br>3. शोषण के खिलाफ अधिकार, जो बलात्कार, बाल श्रम और मानव व्यापार के सभी प्रकार की प्रतिष्ठा को निषिद्ध करता है।<br>4. विवेक का अधिकार और धर्म के स्वतंत्रता में व्यापार, प्रचार, और प्रसार करने का हक है।<br>5. किसी भी नागरिक समूह के अधिकार को अपनी सांस्कृतिक, भाषा या लिपि को संरक्षित करने का, और अल्पसंख्यकों के अधिकारों को उनकी स्वतंत्रता के अनुसार शैक्षणिक संस्थान स्थापित और प्रबंधित करने का हक हैं।<br>6. मौलिक अधिकारों के प्रयास के लिए संविधानिक उपायों का हक।"
+      ]
+    },
+    
+
+    {
+      "tag": "Legal aid serice",
+      "patterns": [
+        "legal aid service?",
+        "how can i access legal aid?",
+        "how can i get legal aid?",
+        "what are legal aid?"
+      ],
+      "responses": [
+        "In India, accessing legal aid services is essential for those who cannot afford legal representation. Here's how you can access legal aid services in India:<br>National Legal Services Authority (NALSA): NALSA is the apex body for legal services in India. They oversee and provide legal aid and assistance. You can approach the NALSA for legal aid and assistance.<br>State Legal Services Authorities: Each state in India has its own State Legal Services Authority. These authorities provide legal aid and services to individuals in need. You can contact your State Legal Services Authority for assistance.<br>District Legal Services Authorities (DLSA): At the district level, the DLSAs are responsible for providing legal aid. You can approach your local DLSA for help.<br>Toll-Free Helplines: Many states have established toll-free helplines for legal aid. These helplines can provide initial guidance and assistance on how to access legal aid services in your area.<br>Legal Aid Clinics: Some law schools and legal organizations operate legal aid clinics that offer free legal services to the community. You can check if there is a legal aid clinic near you.<br>Online Portals: Some legal aid authorities and organizations have online portals where you can apply for legal aid or seek advice. These portals are user-friendly and offer information on various legal topics.<br>Legal Aid Lawyers: Legal aid services may be provided by empaneled lawyers. You can contact a legal aid lawyer directly or get a referral through the legal services authorities.<br>Visit the Official Websites: You can visit the official websites of NALSA, State Legal Services Authorities, or DLSAs for information on how to apply for legal aid and the documents required.<br>Visit Local Legal Services Centers: In many districts and cities, legal services centers are set up to provide assistance. You can visit these centers for help.<br>Local Legal Aid NGOs: Various non-governmental organizations (NGOs) in India work on legal aid and advocacy. They often provide free legal assistance. You can find such organizations in your area.<br>When seeking legal aid, you'll need to provide details about your case and your financial situation to determine your eligibility. Legal aid services are generally aimed at helping economically disadvantaged individuals. If you qualify, you can receive free or subsidized legal assistance and representation.<br>It's important to remember that accessing legal aid services in India may vary from state to state, so it's advisable to contact the relevant authorities or organizations in your specific region for the most accurate and up-to-date information."
+
+      ]
+    },
+
+    {
+      "tag": "Legal aid serice hindi",
+      "patterns": [
+        "कानूनी सहायता सेवा?",
+        "मैं कैसे कानूनी सहायता प्राप्त कर सकता हूं?",
+        "मैं कैसे कानूनी सहायता प्राप्त कर सकता हूं?",
+        "कानूनी सहायता क्या है?",
+        "legal aid service in hindi",
+        "how can i access legal aid in hindi?",
+        "how can i get legal aid in hindi?",
+        "what are legal aid in hindi?"
+      ],
+      "responses": [
+        "भारत में, कानूनी प्रतिनिधि की व्यवस्था करने में असमर्थ व्यक्तियों के लिए कानूनी सहायता सेवाओं का उपयोग करना आवश्यक है। यहां भारत में कानूनी सहायता सेवाओं का उपयोग कैसे कर सकते हैं:<br>राष्ट्रीय कानूनी सेवा प्राधिकरण (NALSA): NALSA भारत में कानूनी सेवाओं के लिए शीर्ष निकाय है। वे कानूनी सहायता और सहायता की निगरानी करते हैं और प्रदान करते हैं। आप कानूनी सहायता और सहायता के लिए NALSA से संपर्क कर सकते हैं।<br>राज्य कानूनी सेवा प्राधिकरण: भारत में प्रत्येक राज्य में अपना अपना राज्य कानूनी सेवा प्राधिकरण है। ये प्राधिकरण जरूरतमंद व्यक्तियों को कानूनी सहायता और सेवाएं प्रदान करते हैं। आप अपने राज्य कानूनी सेवा प्राधिकरण से सहायता के लिए संपर्क कर सकते हैं।<br>जिला कानूनी सेवा प्राधिकरण (DLSA): जिला स्तर पर, DLSA कानूनी सहायता प्रदान करने के लिए जिम्मेदार हैं। आप अपनी स्थानीय DLSA से मदद के लिए संपर्क कर सकते हैं।<br>टोल-फ्री हेल्पलाइन: कई राज्यों ने कानूनी सहायता के लिए टोल-फ्री हेल्पलाइन स्थापित किए हैं। ये हेल्पलाइन आपको आपके क्षेत्र में कानूनी सहायता सेवाओं तक पहुंच के बारे में प्रारंभिक मार्गदर्शन और सहायता प्रदान कर सकते हैं।<br>कानूनी सहायता क्लिनिक: कुछ विधि विद्यालय और कानूनी संगठन कानूनी सहायता क्लिनिक चलाते हैं जो समुदाय को मुफ्त कानूनी सेवाएं प्रदान करते हैं। आप देख सकते हैं कि क्या आपके पास कोई कानूनी सहायता क्लिनिक है।<br>ऑनलाइन पोर्टल: कुछ कानूनी सहायता प्राधिकरण और संगठनों के पास ऑनलाइन पोर्टल हैं जहां आप कानूनी सहायता के लिए आवेदन कर सकते हैं या सलाह ले सकते हैं। ये पोर्टल उपयोगकर्ता के अनुकूल हैं और विभिन्न कानूनी विषयों पर जानकारी प्रदान करते हैं।<br>कानूनी सहायता वकील: कानूनी सहायता सेवाएं अपने आप में विभिन्न वकीलों द्वारा प्रदान की जा सकती हैं। आप सीधे किसी कानूनी सहायता वकील से संपर्क कर सकते हैं या कानूनी सेवा प्राधिकरण के माध्यम से संदर्भ प्राप्त कर सकते हैं।<br>आधिकारिक वेबसाइटों पर जाएं: आप आधिकारिक वेबसाइटों पर जाकर कानूनी सहायता के लिए आवेदन करने और दस्तावेजों की आवश्यकता के बारे में जानकारी प्राप्त कर सकते हैं।<br>स्थानीय कानूनी सेवा केंद्रों पर जाएं: कई जिलों और शहरों में, कानूनी सेवा केंद्र स्थापित किए गए हैं जो मदद प्रदान करते हैं। आप मदद के लिए इन केंद्रों पर जा सकते हैं।<br>स्थानीय कानूनी सहायता एनजीओ: भारत में विभिन्न गैर-सरकारी संगठन (एनजीओ) कानूनी सहायता और प्रचार पर काम करते हैं। वे अक्सर मुफ्त कानूनी सहायता प्रदान करते हैं। आप अपने क्षेत्र में ऐसे संगठनों को खोज सकते हैं।<br>कानूनी सहायता की तलाश करते समय, अपने मामले और आपकी वित्तीय स्थिति के बारे में विवरण प्रदान करने की आवश्यकता होगी ताकि आपकी पात्रता निर्धारित की जा सके। कानूनी सहायता सेवाएं आमतौर पर आर्थिक रूप से वंचित व्यक्तियों की मदद करने के उद्देश्य से हैं। यदि आप पात्र हैं, तो आप मुफ्त या सब्सिडीज़ की कानूनी सहायता और प्रतिनिधित्व प्राप्त कर सकते हैं।<br>याद रखना महत्वपूर्ण है कि भारत में कानूनी सहायता सेवाओं का उपयोग राज्य से राज्य तक भिन्न हो सकता है, इसलिए आपको अपने विशिष्ट क्षेत्र में संबंधित प्राधिकरणों या संगठनों से संपर्क करना उचित है ताकि आपको सबसे सटीक और अद्यतन जानकारी मिल सके।"
+      ]
+    },
+
+    {
+      "tag": "Labour Law",
+      "patterns": [
+        "What are Labour laws?",
+        "labour laws",
+        "labour law definition",
+        "types of labour law"
+      ],
+      "responses": [
+        "The Labour Law legislations can be categorised as follows:<br>1) Labour laws enacted by the Central Government, where the Central Government has the sole responsibility for enforcement.<br>2) Labour laws enacted by Central Government and enforced both by Central and State Governments.<br>3) Labour laws enacted by Central Government and enforced by the State Governments.<br>4) Labour laws enacted and enforced by the various State Governments which apply to respective States."
+      ]
+    },
+
+    {
+      "tag": "Labour Law hindi",
+      "patterns": [
+        "श्रम कानून क्या होते हैं?",
+        "श्रम कानून",
+        "श्रम कानून की परिभाषा",
+        "श्रम कानूनों के प्रकार",
+        "labour law in hindi",
+        "types of labour law in hindi"
+      ],
+      "responses": [
+        "श्रम कानून विधान को निम्नलिखित प्रकार से वर्गीकृत किया जा सकता है:<br>1) केंद्रीय सरकार द्वारा बनाए गए श्रम कानून, जहाँ केंद्रीय सरकार का पूर्ण जिम्मा निष्पादन के लिए होता है।<br>2) केंद्रीय सरकार द्वारा बनाए गए श्रम कानून, जिन्हें केंद्रीय और राज्य सरकार दोनों निष्पादित करते हैं।<br>3) केंद्रीय सरकार द्वारा बनाए गए श्रम कानून, जिन्हें राज्य सरकारें निष्पादित करती हैं।<br>4) विभिन्न राज्य सरकारों द्वारा बनाए और निष्पादित श्रम कानून जो संबंधित राज्यों में लागू होते हैं।"
+      ]
+    },
+
+    {
+      "tag": "Legal Documents",
+      "patterns": [
+        "How can I obtain legal documents? ",
+        "Legal Documents",
+        "Please help me with legal documents",
+        "What are the steps to obtain legal documents?"
+      ],
+      "responses": [
+        "1. Public Records Offices<br>- Many legal documents, such as deeds, property records, marriage licenses, and court records, are often available from government offices. Contact your local county clerk, recorder, or relevant government department to inquire about the specific document you need.<br>2. Courts:<br>- For court-related documents like court orders, judgments, or case filings, you may need to contact the courthouse where the case was heard. They typically maintain a record of court proceedings and can provide copies of relevant documents.<br>3. Online Databases:<br>- Many legal documents are now accessible online through government websites or specialized databases. Check your local government's official website or legal databases for the availability of the document you are looking for.<br>4. Legal Aid Organizations:<br>- If you need legal documents related to specific legal matters, you may contact legal aid organizations. They might provide guidance on how to obtain the documents you need or offer assistance with legal processes.<br>5. Lawyers or Legal Professionals:<br>- If you're working with an attorney or legal professional, they can often assist in obtaining necessary legal documents or direct you on how to do so.<br>6. Freedom of Information Act (FOIA) Requests:<br>- If you're looking for certain government documents, you may submit a FOIA request to the relevant government agency. This applies to public records held by federal and state agencies.<br>7. Purchase Online:<br>- Some legal documents can be purchased online through legal document providers. Websites or services specializing in legal documents may offer a wide range of templates and forms that you can purchase and download.<br>8. Notary Public:<br>- For documents that require notarization, you'll need to find a notary public to witness and notarize the document.<br>"
+      ]
+    },
+
+    {
+      "tag": "Legal Documents hindi",
+      "patterns": [
+        "मैं कैसे कानूनी दस्तावेज प्राप्त कर सकता हूं?",
+        "कानूनी दस्तावेज",
+        "कृपया मुझे कानूनी दस्तावेजों के साथ मदद करें",
+        "कानूनी दस्तावेज प्राप्त करने के लिए क्या चरण हैं?",
+        "legal documents in hindi",
+        "What are the steps to obtain legal documents in hindi?"
+      ],
+      "responses": [
+        "1. सार्वजनिक रिकॉर्ड कार्यालय<br>- अधिकांश कानूनी दस्तावेज, जैसे कि डीड, संपत्ति रिकॉर्ड, विवाह प्रमाणपत्र और न्यायालय रिकॉर्ड, अक्सर सरकारी कार्यालयों से उपलब्ध होते हैं। आपको अपने स्थानीय काउंटी क्लर्क, रिकॉर्डर या संबंधित सरकारी विभाग से संपर्क करना होगा ताकि आप आपको आवश्यक दस्तावेज़ के बारे में पूछ सकें।<br>2. न्यायालय:<br>- न्यायालय आदेश, निर्णय या मामले की फाइलिंग जैसे न्यायालय से संबंधित दस्तावेजों के लिए, आपको वहां न्यायालय से संपर्क करने की आवश्यकता हो सकती है जहां मामला सुना गया था। वे आमतौर पर न्यायालय की प्रक्रिया का एक रिकॉर्ड बनाए रखते हैं और संबंधित दस्तावेज़ों की प्रतियां प्रदान कर सकते हैं।<br>3. ऑनलाइन डेटाबेस:<br>- अब कई कानूनी दस्तावेज़ सरकारी वेबसाइटों या विशेष डेटाबेस के माध्यम से उपलब्ध हैं। आप अपने स्थानीय सरकार की आधिकारिक वेबसाइट या कानूनी डेटाबेस की जांच कर सकते हैं कि आप जिस दस्तावेज़ की तलाश कर रहे हैं उसकी उपलब्धता है या नहीं।<br>4. कानूनी सहायता संगठन:<br>- यदि आपको किसी विशिष्ट कानूनी मामले से संबंधित कानूनी दस्तावेज़ चाहिए, तो आप कानूनी सहायता संगठनों से संपर्क कर सकते हैं। वे आपको आपको आवश्यक दस्तावेज़ प्राप्त करने के बारे में मार्गदर्शन प्रदान कर सकते हैं या कानूनी प्रक्रियाओं में मदद कर सकते हैं।<br>5. वकील या कानूनी व्यावसायिक:<br>- यदि आप एक वकील या कानूनी व्यावसायिक के साथ काम कर रहे हैं, तो वे आमतौर पर आवश्यक कानूनी दस्तावेज़ प्राप्त करने में मदद कर सकते हैं या आपको इसे कैसे करना है इस बारे में निर्देशित कर सकते हैं।<br>6. सूचना की स्वतंत्रता अधिनियम (FOIA) अनुरोध:<br>- यदि आप किसी विशिष्ट सरकारी दस्तावेज़ की तलाश कर रहे हैं, तो आप संबंधित सरकारी विभाग को FOIA अनुरोध जमा कर सकते हैं। यह केंद्रीय और राज्य एजेंसियों द्वारा रखी गई सार्वजनिक रिकॉर्ड के लिए लागू होता है।<br>7. ऑनलाइन खरीद:<br>- कुछ कानूनी दस्तावेज़ कानूनी दस्तावेज़ प्रदाताओं के माध्यम से ऑनलाइन खरीदे जा सकते हैं। कानूनी दस्तावेज़ों पर विशेषज्ञता रखने वाली वेबसाइटें या सेवाएं आपको विभिन्न टेम्पलेट और फॉर्म्स का विकल्प प्रदान कर सकती हैं जिन आप खरीद सकते हैं और डाउनलोड कर सकते हैं।<br>8. नोटरी पब्लिक:<br>- जिन दस्तावेज़ों को नोटरीज़ेशन की आवश्यकता होती है, उनके लिए, आपको एक नोटरी पब्लिक खोजने की आवश्यकता होगी जो दस्तावेज़ को गवाही देगा और नोटरीज़ करेगा।<br>"
+      ]
+    },
+
+
+    {
+      "tag": "Payment of Gratuity Act",
+      "patterns": [
+        "Tell me something about Payment of Gratuity Act",
+        "payment of gratuity act",
+        "act of gratuity",
+        "what is payment of gratuity act",
+        "gratitude act"
+        
+      ],
+      "responses": [
+        "Payment of Gratuity Act provides for a scheme for the payment of gratuity to employees engaged in factories, mines, oilfields, plantations, ports, railway companies, shops or other establishments. The Act enforces the payment of 'gratuity', a reward for long service, as a statutory retiral benefit.<br><br>For more details please got to: Know-your-rights-->Labour Laws-->Payment of Gratuity Act, 1972"      ]
+    },
+
+    {
+      "tag": "Payment of Gratuity Act Hindi",
+      "patterns": [
+        "मुझे पेमेंट ऑफ़ ग्रेच्युटी एक्ट के बारे में कुछ बताओ",
+        "पेमेंट ऑफ़ ग्रेच्युटी एक्ट",
+        "ग्रेच्युटी एक्ट",
+        "पेमेंट ऑफ़ ग्रेच्युटी एक्ट क्या है",
+        "ग्रेट्यूट एक्ट क्या है",
+        "gratitude act in hindi",
+        "tell me something about Payment of Gratuity Act in hindi",
+        "payment of gratuity act in hindi"
+      ],
+      "responses": [
+        "पेमेंट ऑफ़ ग्रेच्युटी एक्ट कारख़ानों, खानों, तेल खनिज, बागानों, बंदरगाहों, रेलवे कंपनियों, दुकानें या अन्य संस्थानों में नियुक्त कर्मचारियों के लिए ग्रेच्युटी के भुगतान की योजना प्रदान करता है। इस अधिनियम ने 'ग्रेच्युटी' के भुगतान को प्रवृत्ति बनाने के लिए विधायिका रेटायरमेंट लाभ के रूप में प्रवृत्ति बनाने के रूप में कड़ाई से लागू किया है।<br><br>अधिक जानकारी के लिए कृपया जाएं: अपने-अधिकार-->श्रम कानून-->ग्रेच्युटी एक्ट, 1972"
+      ]
+    },
+
+
+    {
+      "tag": "INTER-STATE MIGRANT WORKMAN (REGULATION OF EMPLOYMENT AND CONDITIONS OF SERVICE) ACT, 1979",
+      "patterns": [
+        "Tell me something about migrant workman act",
+        "inter-state migrant workman act",
+        "inter-state migrant workman act, 1979",
+        "inter-state migrant",
+        "migrant workman act"
+      ],
+      "responses": [
+        "The main object of the Act is to regulate the employment of inter-state migrant workmen, to safeguard their interests, and to provide for their conditions of service and for matters connected therewith. <br><br>For more details please got to: Know-your-rights-->Labour Laws-->INTER-STATE MIGRANT WORKMAN (REGULATION OF EMPLOYMENT AND CONDITIONS OF SERVICE) ACT, 1979"      ]
+    },
+
+    {
+      "tag": "INTER-STATE MIGRANT WORKMAN (REGULATION OF EMPLOYMENT AND CONDITIONS OF SERVICE) ACT, 1979 hindi",
+      "patterns": [
+        "मुझे प्रवासी श्रमिक अधिनियम के बारे में कुछ बताओ",
+        "इंटर-स्टेट प्रवासी श्रमिक अधिनियम",
+        "इंटर-स्टेट प्रवासी श्रमिक अधिनियम, 1979",
+        "इंटर-स्टेट प्रवासी",
+        "प्रवासी श्रमिक अधिनियम",
+        "Tell me something about migrant workman act in hindi",
+        "migrant workman act in hindi",
+        "inter-state migrant workman act, 1979 in hindi"
+      ],
+      "responses": [
+        "इंटर-स्टेट प्रवासी श्रमिक अधिनियम, 1979 का मुख्य उद्देश्य है कि यह इंटर-स्टेट प्रवासी श्रमिक के रोजगार को नियंत्रित करे, उनकी हितों की रक्षा करे, और उनकी सेवा की शर्तें प्रदान करे और इससे संबंधित मामलों के लिए प्रावधान करे।<br><br>अधिक विवरण के लिए कृपया जाएं: अपने-अधिकार-->श्रम कानून-->इंटर-स्टेट प्रवासी श्रमिक (रोजगार और सेवा की शर्तें) अधिनियम, 1979"
+      ]
+    },    
+
+    {
+      "tag": "EMPLOYEES COMPENSATION ACT, 1923",
+      "patterns": [
+        "Tell me something about employees compensation act",
+        "employees compensation act",
+        "employees compensation act, 1923",
+        "employees act"
+      ],
+      "responses": [
+        "Earlier known as the Workmen’s Compensation Act, EMPLOYEES COMPENSATION ACT, 1923 was enacted as a kind of social security measure for workmen who suffer employment injury, occupational disease, etc.  <br><br>For more details please got to: Know-your-rights-->Labour Laws-->EMPLOYEES COMPENSATION ACT, 1923"      ]
+    },
+
+    {
+      "tag": "EMPLOYEES COMPENSATION ACT, 1923 hindi",
+      "patterns": [
+        "कर्मचारी संराहन अधिनियम के बारे में कुछ बताओ",
+        "कर्मचारी संराहन अधिनियम",
+        "कर्मचारी संराहन अधिनियम, 1923",
+        "कर्मचारी अधिनियम",
+        "Tell me something about employees compensation act in hindi",
+        "employees compensation act 1923 in hindi"
+      ],
+      "responses": [
+        "कर्मचारी संराहन अधिनियम, 1923 को पहले श्रमिक संराहन अधिनियम के रूप में जाना जाता था, यह अधिनियम उन श्रमिकों के लिए सामाजिक सुरक्षा के रूप में प्रकट किया गया था जो रोजगार हानि, पेशेवर बीमारी आदि का सामना करते हैं।<br><br>अधिक विवरण के लिए कृपया जाएं: अपने-अधिकार-->श्रम कानून-->कर्मचारी संराहन अधिनियम, 1923"
+      ]
+    },
+
+
+    {
+      "tag": "Payment of Bonus Act (1965)",
+      "patterns": [
+        "What is Payment of Bonus Act (1965)?",
+        "Payment of Bonus Act (1965)",
+        "Payment of Bonus Act (1965) details",
+        "Payment of Bonus Act",
+        "Please help me with Payment of Bonus Act (1965)",
+        "Can you please tell me about Payment of Bonus Act (1965)?",
+        "Payment of Bonus"
+      ],
+      "responses": [
+        "The payment of Bonus Act provides for payment of bonus to persons employed in certain establishments on the basis of profits or on the basis of production or productivity and for matters connected therewith.<br><br>For more details please got to: Know-your-rights-->Labour Laws-->Payment of Bonus Act (1965)"
+      ]
+    },
+    {
+      "tag": "Payment of Bonus Act (1965) Hindi",
+      "patterns": [
+        "Payment of Bonus Act (1965) Hindi",
+        "Payment of Bonus Act (1965) Hindi details",
+        "Payment of Bonus Act (1965) Hindi",
+        "Payment of Bonus Act (1965) Hindi",
+        "क्या कामकाजी कानूनों में बोनस के लिए कोई कानून है?",
+        "बोनस कानून क्या है?",
+        "बोनस अधिनियम (1965) के बारे में विवरण दें (1965)"
+      ],
+      "responses": [
+        "बोनस अधिनियम (1965) का मुख्य उद्देश्य लाभ के आधार पर निश्चित संस्थानों में रोजगार करने वाले व्यक्तियों को बोनस का भुगतान करना और उससे संबंधित मामलों के लिए है।<br><br>अधिक जानकारी के लिए कृपया जाएं: अपने-अधिकार-->कामकाजी कानून-->बोनस अधिनियम, 1965"
+      ]
+    },
+    {
+      "tag": "Payment of Wages Act, 1936",
+      "patterns": [
+        "What is Payment of Wages Act, 1936?",
+        "Payment of Wages Act, 1936",
+        "Wages Act",
+        "Tell me about Payment of Wages"
+      ],
+      "responses": [
+        "The main objective of the Payment of Wages Act (1936) is to regulate the payment of wages of certain classes of employed persons, avoid unnecessary delay in the payment of wages, and prevent unauthorised deductions from the wages.<br><br>For more details please got to: Know-your-rights-->Labour Laws-->Payment of Wages Act, 1936"
+      ]
+    },
+    {
+      "tag": "Payment of Wages Act, 1936 Hindi",
+      "patterns": [
+        "Payment of Wages Act, 1936 Hindi",
+        "Payment of Wages Act, 1936 Hindi details",
+        "Payment of Wages Act",
+        "क्या कामकाजी कानूनों में वेतन के भुगतान के लिए कोई कानून है?",
+        "वेतन अधिनियम क्या है?",
+        "वेतन अधिनियम (1936) के बारे में विवरण दें"
+      ],
+      "responses": [
+        "वेतन अधिनियम (1936) का मुख्य उद्देश्य निश्चित वर्गों के रोजगार करने वाले व्यक्तियों के वेतन के भुगतान को व्यवस्थित करना, वेतन के भुगतान में अनावश्यक देरी से बचना और वेतन से अनधिकृत कटौतियों से बचना है।<br><br>अधिक जानकारी के लिए कृपया जाएं: अपने-अधिकार-->कामकाजी कानून-->वेतन अधिनियम, 1936"
+      ]
+    },
+
+    {
+      "tag": "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966",
+      "patterns": [
+        "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966",
+        "BEEDI AND CIGAR WORKERS",
+        "Is there any act for BEEDI AND CIGAR WORKERS?",
+        "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966 details"
+      ],
+      "responses": [
+        "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966 provides for the welfare of the workers employed in beedi and cigar establishments. It regulates the conditions of work of workers engaged in this industry, and also makes provisions regarding other facilities like drinking water, latrines, urinals, washing facilities, creches, first aid and canteen facilities, etc.<br><br>For more details please got to: Know-your-rights-->Labour Laws-->BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966"
+      ]
+    },
+    {
+      "tag": "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966 Hindi",
+      "patterns": [
+        "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966 Hindi",
+        "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966 Hindi details",
+        "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966 Hindi",
+        "BEEDI AND CIGAR WORKERS (CONDITIONS OF EMPLOYMENT) ACT, 1966 Hindi",
+        "क्या कामकाजी कानूनों में बीडी और सिगर वर्कर्स के लिए कोई कानून है?",
+        "बीडी और सिगर वर्कर्स कानून क्या है?",
+        "बीडी और सिगर वर्कर्स (रोजगार की शर्तें) अधिनियम, 1966 के बारे में विवरण दें"
+      ],
+      "responses": [
+        "यह अधिनियम बीडी और सिगर स्थापनाओं में रोजगार करने वाले कर्मचारियों के कल्याण के लिए प्रदान करता है। यह इस उद्योग में रोजगार करने वाले कर्मचारियों के काम की शर्तों को व्यवस्थित करता है, और शराब, लैट्रीन, मूत्रालय, धोने की सुविधाएं, क्रेच, प्राथमिक चिकित्सा और कैंटीन सुविधाओं आदि जैसी अन्य सुविधाओं के बारे में भी प्रावधान करता है।<br><br>अधिक जानकारी के लिए कृपया जाएं: अपने-अधिकार-->कामकाजी कानून-->बीडी और सिगर वर्कर्स (रोजगार की शर्तें) अधिनियम, 1966"
+      ]
+    },
+
+
+    {
+      "tag": "MATERNITY BENEFIT ACT, 1961",
+      "patterns": [
+        "MATERNITY BENEFIT ACT, 1961",
+        "Is there any act for maternity benefits in labours laws?",
+        "what is maternity benefit act?",
+        "give me details about maternity benefit act (1961)"
+      ],
+      "responses": [
+        "The prime objective of Maternity Benefit Act (1961) is to protect the dignity of motherhood and to provide certain relaxation to women employees at the time of childbirth.<br><br>For more details please got to: Know-your-rights-->Labour Laws-->MATERNITY BENEFIT ACT, 1961"
+      ]
+    },
+  
+  
+    {
+      "tag": "MATERNITY BENEFIT ACT Hindi",
+      "patterns": [
+        "MATERNITY BENEFIT ACT, 1961",
+        "क्या कामकाजी कानूनों में मातृत्व लाभ के लिए कोई कानून है? ",
+        "मातृत्व लाभ कानून क्या है?",
+        "मातृत्व लाभ अधिनियम (1961) के बारे में विवरण दें (1961)",
+        "Is there any act for maternity benefits in labours laws in hindi?",
+        "what is maternity benefit act in hindi?",
+        "give me details about maternity benefit act (1961) in hindi"
+      ],
+      "responses": [
+        "मातृत्व लाभ अधिनियम (1961) का मुख्य उद्देश्य मातृत्व की मर्यादा की सुरक्षा करना और जन्म के समay महिला कर्मचारियों को निश्चित आराम प्रदान करना है।<br><br>अधिक जानकारी के लिए कृपया जाएं: अपने-अधिकार-->कामकाजी कानून-->मातृत्व लाभ अधिनियम, 1961"
+      ]
+    },
+
+    {
+      "tag": "CHILD LABOUR (PROHIBITION AND REGULATION) ACT, 1986",
+      "patterns": [
+        "CHILD LABOUR (PROHIBITION AND REGULATION) ACT, 1986",
+        "Is there any act for CHILD LABOUR",
+        "tell me about CHILD LABOUR act",
+        "give me details about CHILD LABOUR (PROHIBITION AND REGULATION) ACT, 1986"
+      ],
+      "responses": [
+        "The Child Labour (Prohibition & Regulation) Act, 1986 was enacted to prohibit the engagement of children below the age of fourteen years in factories, mines and hazardous employments and to regulate their conditions of work in certain other employments. <br><br>For more details please got to: Know-your-rights-->Labour Laws-->CHILD LABOUR (PROHIBITION AND REGULATION) ACT, 1986"
+      ]
+    },
+
+    {
+      "tag": "CHILD LABOUR (PROHIBITION AND REGULATION) ACT, 1986 hindi",
+      "patterns": [
+        "CHILD LABOUR (PROHIBITION AND REGULATION) ACT, 1986 in hindi",
+        "क्या कामकाजी कानूनों में बाल श्रम के लिए कोई कानून है?",
+        "बाल श्रम अधिनियम के बारे में मुझे बताओ",
+        "बाल श्रम (निषेध और विनियमन) अधिनियम, 1986 के बारे में विवरण दें",
+        "tell me about CHILD LABOUR act in hindi",
+        "child labour in hindi"
+      ],
+      "responses": [
+        "बाल श्रम (निषेध और विनियमन) अधिनियम, 1986 को कारखानों, खानों और खतरनाक रोजगारों में चौदह वर्ष से कम आयु के बच्चों को नियोजित करने से रोकने और उनकी शर्तों को नियंत्रित करने के लिए विधायित किया गया था और कुछ अन्य रोजगारों में उनकी काम की शर्तों को व्यवस्थित करने के लिए।<br><br>अधिक जानकारी के लिए कृपया जाएं: अपने-अधिकार-->कामकाजी कानून-->बाल श्रम (निषेध और विनियमन) अधिनियम, 1986"
+      ]
+    }
+    
+
+  ]
+}
