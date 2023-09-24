@@ -9,9 +9,10 @@
 </head>
 <body>
     <div class="chatbox__button">
+       
         <a href="{{ url_for('index') }}"><button><img src="{{ url_for('static', filename='images/chatbox-icon.svg') }}" /></button></a>
     </div>
-    <a href="{{ url_for('index') }}">Know your Rights-></a>
+    <!-- <a href="{{ url_for('index') }}">Know your Rights-></a> -->
     
     <div class="topnav">
         <div class="search-bar-container">
@@ -66,7 +67,7 @@
         <br>
         <br>
     </div>
-    <div class="box" onclick="window.location.href='ask_query.html'">
+    <div class="box" onclick="window.location.href='{{ url_for('ask_query') }}'">
         <div class="box-header">Know your Rights</div>
         <div class="box-content">
             <table>
@@ -74,12 +75,14 @@
                     <td>
                         <p>{{ gettext('Know Your Rights is a fundamental concept that empowers individuals by informing them about their legal entitlements and freedoms. It serves as a guide to understanding and asserting ones legal protections in various contexts, promoting informed decision-making and advocacy.')}}</p>
                     </td>
+                </tr>
         </div>
+        <tr>
+        <td>
         <div class="box-button">
-            <td>
-                <a href="{{ url_for('ask_query') }}">{{ gettext('Know your Rights')}}</a>
-            </td>
+            <a class="button-link" href="{{ url_for('ask_query') }}">{{ gettext('Know your Rights')}}</a>
         </div>
+    </td>
         </tr>
     </table>
     </div>

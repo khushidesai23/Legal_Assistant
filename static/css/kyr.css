@@ -12,12 +12,10 @@
     font-size: 19px;
     color: #333; /* Text color */
     margin: 10px 0; /* Margin for spacing */
+    text-align: center;
 }
 
-.heading a {
-    text-decoration: none;
-    color: #3498db; /* Link color */
-}
+
 .list {
     text-decoration:none;
     margin-left:20px;
@@ -35,10 +33,6 @@ a:hover{
     color:green;
 }
 
-
-.heading a:hover {
-    text-decoration: underline; /* Add underline on hover */
-}
 
 .search-bar {
     border: none;
@@ -207,4 +201,27 @@ footer {
 /* Style to remove margin-right for the last link (English) */
 .top-content a:last-child {
     margin-right: 0;
+}
+.list ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.list li {
+    background-color: #cdcfe4; /* Background color for the boxes */
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 8px;
+    width: calc(20% - 20px); /* Set the width of each box, minus margins */
+    text-align: center;
+}
+
+.list li a {
+    text-decoration: none;
+    color: #333; /* Text color for the links */
+    font-weight: bold;
 }

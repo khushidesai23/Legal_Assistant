@@ -1,0 +1,106 @@
+.act-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-decoration:none;
+    color:purple;
+}
+.act-box a {
+    text-decoration: none; /* Remove underline for links within .act-box */
+    color: inherit; /* Inherit the color from the parent, you can adjust the color if needed */
+}
+.act-box:hover{
+    background-color:antiquewhite;
+    color:black;
+    
+
+}
+
+.overview h3 {
+    background-color: #333;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px 5px 0 0;
+}
+
+.overview ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+.overview li {
+    margin: 5px 0;
+}
+.navbar {
+    background-color: #353333; /* Background color for the navbar */
+    color: #fff; /* Text color */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+     padding: 10px; 
+    justify-content: end;
+   
+}
+
+/* Style for the navigation links */
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 90px;
+   
+    /* margin: 0 2px;Add spacing between links */
+} 
+footer {
+    background-color: #353333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    height:100px;
+}
+
+.footer-nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.footer-nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.footer-nav ul li:last-child {
+    margin-right: 0; /* Remove margin for the last list item */
+}
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar a {
+        margin: 10px 0;
+        margin-left: 0;
+    }
+
+    .footer-nav ul li {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}

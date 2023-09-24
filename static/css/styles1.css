@@ -329,3 +329,48 @@ footer {
         margin-left: 0; /* Reset left margin for navigation links */
     }
 }
+.chatbox__button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+   
+    /* border: none; */
+    /* border-radius: 50%; */
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; 
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.chatbox__button img {
+    width: 80px; /* Adjust the size of the chatbox icon */
+    height: 80px;
+    margin-right: 5px; /* Add some spacing between the icon and text */
+}
+.chatbox__button h3{
+    color: rgb(213, 159, 240);
+   vertical-align: top;
+}
+
+/* Style for the button-link */
+.button-link {
+
+    display: inline-block;
+    background-color:rgb(62, 42, 72); /* Choose your desired button color */
+    color: white;
+   
+    text-decoration: none;
+    padding: 10px 20px; /* Adjust padding to control button size */
+    border-radius: 5px; /* Add rounded corners to the button */
+    transition: background-color 0.3s ease; /* Add a smooth hover effect */
+}
+
+.button-link:hover {
+    background-color: #e8ecf0; /* Change the button color on hover */
+    color: #333;
+}
