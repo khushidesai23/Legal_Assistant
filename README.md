@@ -2,8 +2,10 @@ Know-Your-Rights Framework
 
 how to start:
 
-python -m venv venv
+`python -m venv venv`
 
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+`source venv/bin/activate`  
 
-python app.py
+On Windows use `venv\Scripts\activate`
+
+`python app.py`
